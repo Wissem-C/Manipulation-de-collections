@@ -1,0 +1,2 @@
+# Manipulation de collections
+ L’objet de cet exercice est de simuler l’interrogation d’un DNS (Domain Name Server). Un DNS convertit une adresse IP (192.168.0.1 par exemple) en un nom qualifié de machine (machine.domaine.local par exemple) et inversement. Un nom qualifié comporte le nom de la machine (avant le premier '.') et un nom de domaine (après le premier '.').  L’interface proposera une ligne de commande à partir de laquelle les commandes suivantes devront être interprétées:

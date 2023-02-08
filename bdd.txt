@@ -1,0 +1,11 @@
+193.51.25.12 ecampus.uvsq.fr
+193.51.25.24 pikachu.apple.fr
+193.51.31.90 www.uvsq.fr
+193.51.31.84 poste.microsoft.fr
+193.51.25.29 eeeeecampuspikachu.google.fr
+193.52.25.29 eeeeeeeeecampuspikachu.uvsq.fr
+194.0.0.1 mac.google.com
+191.64.25.29 monsite.google.fr
+197.51.25.29 cookie.google.fr
+196.12.69.32 www.impot.gouv
+176.12.69.32 wzzzww.impot.gouv
